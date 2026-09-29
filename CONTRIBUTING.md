@@ -40,4 +40,4 @@ If you have a change or new feature in mind, please open an issue in GitHub, cle
 
 Thanks!
 
-Dan Hunsaker
+Hennik Hunsaker
